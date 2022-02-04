@@ -180,7 +180,7 @@ Pinball FX3は有料のDLCに含まれていますが、ベースのPinball FX3�
 - [ダイバーウォーク](#ダイバーウォーク)ミッションをクリアした
 - [難破船](#難破船)ミッションをクリアした
 
-![エクストラボール LIT ライト](./images/table_name_diveagain.jpg "エクストラボール LIT ライト")
+![エクストラボール LIT ライト](./images/table_name_extraball.jpg "エクストラボール LIT ライト")
 
 以上を達成してLITさせた後、サイドミッションシンクホール<sup>[t16](#t16-サイドミッションシンクホール)</sup>にヒットするとエクストラボールを取得できます。  
 
@@ -219,7 +219,7 @@ Pinball FX3は有料のDLCに含まれていますが、ベースのPinball FX3�
 
 > 左プランジャーを解放している間は左アウトレーンのボールアウトを防げるため、キックバックの代わりになります。  
 
-![マルチプライヤーライト](./images/table_name_diveagain.jpg "マルチプライヤーライト")
+![マルチプライヤーライト](./images/table_name_multiplier.jpg "マルチプライヤーライト")
 
 <details>
 <summary>検証中</summary>
@@ -615,8 +615,9 @@ TIDEライトは左右フリッパーによって入れ替えられます。
 <summary>スコア</summary>
 
 - レーンにヒット: 5 Million
-- ドロップターゲットにヒット: 5 Million
+- ドロップターゲットにヒット: 1 Million
 - ドロップターゲットをコンプリート: 10 Million
+- ダイブターゲットをヒット: 1 Million
 - ダイブターゲットをコンプリート: 5 Million
 - 全てをコンプリート: 50 Million
 </details>
