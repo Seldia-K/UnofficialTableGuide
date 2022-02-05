@@ -655,6 +655,16 @@ TIDEライトは左右フリッパーによって入れ替えられます。
 - 全てをコンプリート: 50 Million
 </details>
 
+<details>
+<summary>検証中</summary>
+
+参考文献のテーブルガイドには以下の通り記されています。  
+
+> After completion, the progress of the Table will be reset thus Table Reset!
+
+何が起こるんでしょうね？  
+</details>
+
 ## 攻略手順
 
 ### マグナセーブのチャージ
